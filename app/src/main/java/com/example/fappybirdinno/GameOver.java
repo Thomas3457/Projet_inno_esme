@@ -1,4 +1,4 @@
-package com.example.projetinno;
+package com.example.fappybirdinno;
 
 import androidx.appcompat.app.AppCompatActivity;
 
